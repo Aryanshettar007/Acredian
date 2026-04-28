@@ -33,7 +33,7 @@ export const FAQSection = () => {
   };
 
   return (
-    <SectionWrapper background="gray" id="faqs" className="py-20 md:py-24 bg-[#fafafa]">
+    <SectionWrapper background="light" id="faqs" className="py-20 md:py-24 bg-[#fafafa]">
       <div className="text-center mb-16">
         <h2 className="text-3xl md:text-[40px] font-bold mb-3 text-gray-900">
           Frequently Asked <span className="text-brand-blue">Questions</span>
